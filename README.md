@@ -36,7 +36,7 @@
 ## Things I code with
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,express,nestjs,nextjs,react,tailwind,python,materialui,mysql,mongodb,aws,git,github,bash,linux,vercel,vim" />
+    <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,nextjs,react,tailwind,python,materialui,mysql,mongodb,aws,git,github,linux" />
   </a>
 </p>
 
